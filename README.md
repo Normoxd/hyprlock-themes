@@ -6,6 +6,7 @@
 > Variant 2
 ![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/v2.png?raw=true)
 
+## install
 ``` 
 git clone https://github.com/Normoxd/hyprlock-themes
 cd hyprlock-themes
