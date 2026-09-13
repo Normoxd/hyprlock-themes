@@ -1,4 +1,4 @@
-# Hyprlock themes
+# hyprlock themes
 
 > Variant 1
 ![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/v1.png?raw=true)
@@ -7,8 +7,8 @@
 ![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/v2.png?raw=true)
 
 ``` 
-git clone https://github.com/Normoxd/Hyprlock-themes
-cd Hyprlock-themes
+git clone https://github.com/Normoxd/hyprlock-themes
+cd hyprlock-themes
 cd fonts
 mv * ~/.local/share/fonts
 cd ..
