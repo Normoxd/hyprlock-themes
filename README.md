@@ -6,6 +6,6 @@
 ```
 git clone https://github.com/Normoxd/hyprlock-themes
 cd hyprlock-themes
-chmod +x setup.sh
+chmod +x setup.sh & clear
 ./setup.sh
 ```
