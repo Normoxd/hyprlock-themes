@@ -1,7 +1,7 @@
-# Hyprlock theme(s)
+# Hyprlock themes
 
-![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/mid.png)
 ![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/something.png)
+![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/mid.png)
 
 ## Install
 ```
