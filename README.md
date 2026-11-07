@@ -4,8 +4,8 @@
 <summary>Overview</summary>
   <br>
   <img src="overview/blackout.png">
-  <img src="overview/something.png">
-  <img src="overview/mid.png">
+  <img src="overview/w11.png">
+  <img src="overview/w10.png">
 </details>
 
 ## Install
