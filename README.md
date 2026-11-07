@@ -1,7 +1,15 @@
 # Hyprlock themes
 
-![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/something.png)
-![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/mid.png)
+<details>
+<summary>Overview</summary>
+  <br>
+  <p>Blackout (squint to see the clock lmao)</p>
+  <img src="overview/blackout.png">
+  <p>Windows11iguess</p>
+  <img src="overview/something.png">
+  <p>Windows10iguess</p>
+  <img src="overview/mid.png">
+</details>
 
 ## Install
 ```
