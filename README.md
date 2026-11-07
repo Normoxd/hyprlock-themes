@@ -3,18 +3,15 @@
 <details>
 <summary>Overview</summary>
   <br>
-  <p>Blackout (squint to see the clock lmao)</p>
+  <b>Blackout
   <img src="overview/blackout.png">
-  <p>Windows11iguess</p>
+  W11iguess
   <img src="overview/something.png">
-  <p>Windows10iguess</p>
+  W10iguess</b>
   <img src="overview/mid.png">
 </details>
 
 ## Install
 ```
-git clone https://github.com/Normoxd/hyprlock-themes
-cd hyprlock-themes
-chmod +x setup.sh & clear
-./setup.sh
+curl https://raw.githubusercontent.com/Normoxd/hyprlock-themes/refs/heads/main/setup.sh | bash
 ```
