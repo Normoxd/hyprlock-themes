@@ -1,7 +1,7 @@
 # Hyprlock themes
 
 <details>
-<summary>Overview</summary>
+<summary>Overview (click to view)</summary>
   <br>
   <img src="overview/blackout.png">
   <img src="overview/w11.png">
