@@ -3,11 +3,8 @@
 <details>
 <summary>Overview</summary>
   <br>
-  <b>Blackout
   <img src="overview/blackout.png">
-  W11iguess
   <img src="overview/something.png">
-  W10iguess</b>
   <img src="overview/mid.png">
 </details>
 
